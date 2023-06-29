@@ -2,12 +2,9 @@
 
 Buldybayev Rinat
 =================
-
--------------------  
-email: rinatbuldybayev@gmail.com  
--------------------------  
-telegram: @rinatbul5
--------------------------  
+ 
+_email: rinatbuldybayev@gmail.com_  
+_telegram: @rinatbul5_  
 
 Education
 ---------
@@ -18,7 +15,7 @@ Education
 Technical Experience
 --------------------
 
-Frontend
+**Frontend**
 :   
     **React JS:** State management, React Router, Hooks(useState, useEffect, useRef, useReducer).  
     **Redux:** useDispatch, connect.  
@@ -29,7 +26,7 @@ Frontend
     **CSS Frameworks:** Material UI, Bootstrap.  
     **GIT:** Basics.
 
-System Administration
+**System Administration**
 :   
     **Administration of network equipment:** TCP/IP, UDP, network troubleshooting  
     **Server Administration:** Windows Server, Linux.
