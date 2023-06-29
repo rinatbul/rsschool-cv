@@ -19,7 +19,8 @@ Technical Experience
 --------------------
 
 Frontend
-:   **React JS:** State management, React Router, Hooks(useState, useEffect, useRef, useReducer).  
+:   
+    **React JS:** State management, React Router, Hooks(useState, useEffect, useRef, useReducer).  
     **Redux:** useDispatch, connect.  
     **Javascript:** Promises, async/await, callbacks, setTimeout, setInterval, arrays methods, string methods.   
     **Typescript:** Types, Generic Types.  
@@ -29,7 +30,8 @@ Frontend
     **GIT:** Basics.
 
 System Administration
-:   **Administration of network equipment:** TCP/IP, UDP, network troubleshooting  
+:   
+    **Administration of network equipment:** TCP/IP, UDP, network troubleshooting  
     **Server Administration:** Windows Server, Linux.
 
 My Code Examples
