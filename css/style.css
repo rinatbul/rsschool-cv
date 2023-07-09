@@ -13,7 +13,23 @@ body {
     margin: 0;
     text-align: center;
 }
-
+.nav {
+    margin-top: 10px;
+    text-align: center;
+}
+.nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+}
+.image-div{
+    display: flex;
+    justify-content: center;
+}
+.image-div img{
+    border-radius: 50%;
+    width: 300px;
+}
 .wrapper{
     margin: 0 auto;
     width: 80%;
@@ -33,6 +49,9 @@ body {
     color: #333;
     margin-bottom: 10px;
 }
+.section p {
+    margin: 5px 0;
+}
 
 .code-block {
     background-color: #f2f2f2;
@@ -47,4 +66,7 @@ body {
     color: #fff;
     padding: 20px;
     text-align: center;
+}
+.course img{
+    width: 80px;
 }
